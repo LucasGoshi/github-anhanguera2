@@ -1,4 +1,3 @@
 Primeira Linha de Código
-Segunda Linha de Código
-Terceira Linha de Código (Autor 2)
-Quarta Linha de Código (Main)
+
+Código Atualizado
